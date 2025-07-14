@@ -1,7 +1,8 @@
-# Shield-Insurance-Analysis
+# Shield-Insurance-Analysis 
 
-The project that turned Shield Insurance's data mountain into a revenue volcano.
+- Welcome to my comprehensive Shield Insurance analytics deep-dive.
 
+Open the [**Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZDNhNTE2OWQtYjY0ZC00OWI1LWIyY2UtNzViN2UzODY5YWNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -30,9 +31,29 @@ Help leadership make data-driven decisions faster by surfacing key customer and 
 
 | View | Description |
 |------|-------------|
-| 🏠 **General Overview** | Overall business performance, monthly trends, city-wise metrics |
+| 🏠 **Overview** | Overall business performance, monthly trends, city-wise metrics |
 | 🛍️ **Sales Mode Analysis** | Revenue and customer breakdown by sales channels |
 | 👥 **Age Group Analysis** | Policy count, revenue, and customer distribution by age group |
+
+### Home Page/ Landing Page
+
+![Home Page](https://github.com/Anand-Analyst-05/Shield-Insurance-Analysis/blob/main/Files/Home%20Page.png)
+
+### Overview
+
+![Overview](https://github.com/Anand-Analyst-05/Shield-Insurance-Analysis/blob/main/Files/Overview.png)
+
+### Sales Mode Analysis
+
+![Sales Mode Analysis](https://github.com/Anand-Analyst-05/Shield-Insurance-Analysis/blob/main/Files/Sale%20Mode%20Analysis.png)
+
+### Age Group Analysis
+
+![Age Group Analysis](https://github.com/Anand-Analyst-05/Shield-Insurance-Analysis/blob/main/Files/Age%20Group%20Analysis.png)
+
+### Data Modeling
+
+![Data Modeling](https://github.com/Anand-Analyst-05/Shield-Insurance-Analysis/blob/main/Files/Shield%20Insurance%20Data%20Modeling.png)
 
 ---
 
@@ -84,7 +105,7 @@ Help leadership make data-driven decisions faster by surfacing key customer and 
 ```text
 Shield Insurance Analysis/
 ├── assets/                        → All dashboard and data model screenshots
-│   ├── 
+│   ├── Project Summary & Key Outcome
 │   ├── home_page.png
 │   ├── Overview.png
 │   ├── sales Mode Analysis.png
