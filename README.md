@@ -8,9 +8,7 @@ Open the [**Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZD
 
 ## 🧠 Project Summary
 
-Shield Insurance had tons of raw data but lacked a single place to analyze customer behavior, regional performance, and sales trends.
-
-As part of my virtual internship with **AtliQ Technologies**, I built a pilot Power BI dashboard that transformed their messy data into a set of clear, interactive views.
+As part of my internship with **AtliQ Technologies**, I collaborated with Shield Insurance to design a Power BI dashboard that transformed raw data into actionable insights. The dashboard streamlined the analysis of customer behavior, sales trends, and regional performance, empowering Shield to make data-driven decisions efficiently.
 
 ### The goal?
 Help leadership make data-driven decisions faster by surfacing key customer and sales insights.
